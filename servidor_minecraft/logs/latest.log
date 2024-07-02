@@ -582,3 +582,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Jul2024 02:49:06.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> ....
 [02Jul2024 02:49:13.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> queria comer
 [02Jul2024 02:49:22.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> y q hago con el pico en la mano xddd
+[02Jul2024 02:50:43.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> pndjbno puede pasar
+[02Jul2024 02:52:42.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> yo tengo una idea
+[02Jul2024 02:54:33.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> xdd
+[02Jul2024 02:55:16.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-943, y=72, z=1454} BlockPos{x=-944, y=70, z=1454}
