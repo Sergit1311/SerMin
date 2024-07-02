@@ -484,3 +484,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Jul2024 01:58:34.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was slain by Skeleton
 [02Jul2024 01:58:34.109] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
 [02Jul2024 01:58:34.114] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[02Jul2024 01:59:04.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d was slain by Skeleton
+[02Jul2024 01:59:48.954] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/5243, l='ServerLevel[world]', x=50.85, y=171.00, z=2007.52] died: Gearling fell from a high place
+[02Jul2024 02:00:15.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was slain by Skeleton
+[02Jul2024 02:00:15.608] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[02Jul2024 02:00:15.613] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[02Jul2024 02:00:27.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d was slain by Skeleton
+[02Jul2024 02:01:06.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/5242, l='ServerLevel[world]', x=47.85, y=173.00, z=2001.57] died: Gearling fell from a high place
+[02Jul2024 02:02:07.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was slain by Skeleton
+[02Jul2024 02:02:07.308] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[02Jul2024 02:02:07.314] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[02Jul2024 02:02:18.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d was slain by Skeleton
+[02Jul2024 02:03:10.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shelg0d: Set own game mode to Creative Mode]
+[02Jul2024 02:04:01.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Ravager
+[02Jul2024 02:04:01.356] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[02Jul2024 02:04:01.361] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[02Jul2024 02:05:02.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Skeleton
+[02Jul2024 02:05:02.755] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[02Jul2024 02:05:02.762] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[02Jul2024 02:05:21.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Skeleton
+[02Jul2024 02:05:21.702] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[02Jul2024 02:05:21.709] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[02Jul2024 02:05:28.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Skeleton
