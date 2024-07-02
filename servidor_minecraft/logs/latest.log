@@ -506,3 +506,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Jul2024 02:05:21.702] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
 [02Jul2024 02:05:21.709] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
 [02Jul2024 02:05:28.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Skeleton
+[02Jul2024 02:11:28.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has reached the goal [Blot Out The Sun]
+[02Jul2024 02:12:00.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/7577, l='ServerLevel[world]', x=47.07, y=174.25, z=1998.60] died: Gearling was killed with dark magic by shelg0d
+[02Jul2024 02:12:10.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/7578, l='ServerLevel[world]', x=47.85, y=173.00, z=2001.65] died: Gearling fell from a high place
+[02Jul2024 02:12:52.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/7654, l='ServerLevel[world]', x=47.75, y=173.00, z=1998.56] died: Gearling fell from a high place
+[02Jul2024 02:13:45.584] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/7684, l='ServerLevel[world]', x=40.74, y=178.00, z=2004.50] died: Gearling was slain by shelg0d
+[02Jul2024 02:13:47.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/7635, l='ServerLevel[world]', x=47.79, y=173.00, z=2001.17] died: Gearling fell from a high place
+[02Jul2024 02:14:45.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/7648, l='ServerLevel[world]', x=40.49, y=173.00, z=2000.41] died: Gearling was slain by shelg0d
+[02Jul2024 02:14:50.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/7609, l='ServerLevel[world]', x=47.75, y=173.00, z=2001.19] died: Gearling was doomed to fall by shelg0d
+[02Jul2024 02:14:51.353] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/7676, l='ServerLevel[world]', x=47.72, y=173.00, z=2001.23] died: Gearling fell from a high place
+[02Jul2024 02:15:03.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/7580, l='ServerLevel[world]', x=46.16, y=173.00, z=1999.38] died: Gearling was slain by shelg0d
+[02Jul2024 02:15:03.291] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/7647, l='ServerLevel[world]', x=46.53, y=173.42, z=1999.80] died: Gearling was slain by shelg0d
+[02Jul2024 02:15:05.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[02Jul2024 02:15:05.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[02Jul2024 02:15:12.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/7665, l='ServerLevel[world]', x=51.99, y=173.00, z=2000.93] died: Gearling was slain by shelg0d
+[02Jul2024 02:15:14.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/7585, l='ServerLevel[world]', x=57.50, y=173.00, z=2002.60] died: Gearling was slain by shelg0d
+[02Jul2024 02:17:17.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:51195] logged in with entity id 9623 at (46.53736590409448, 161.0, 1991.632239277228)
+[02Jul2024 02:17:17.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[02Jul2024 02:17:17.934] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[02Jul2024 02:20:03.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shelg0d: Set own game mode to Survival Mode]
+[02Jul2024 02:20:13.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shelg0d: Set own game mode to Creative Mode]
+[02Jul2024 02:20:22.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shelg0d: Set own game mode to Survival Mode]
+[02Jul2024 02:24:53.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Hidden in the Depths]
+[02Jul2024 02:28:22.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> me sigues?
+[02Jul2024 02:29:00.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> xdd
+[02Jul2024 02:29:23.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> me acaban de pegar con un tridente q vrg

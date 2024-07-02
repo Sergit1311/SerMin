@@ -31,6 +31,7 @@
       "minecraft:grove": "2024-06-30 01:45:28 +0000",
       "minecraft:cold_ocean": "2024-06-30 03:13:51 +0000",
       "minecraft:forest": "2024-06-30 01:38:30 +0000",
+      "minecraft:old_growth_birch_forest": "2024-07-02 02:18:33 +0000",
       "minecraft:meadow": "2024-06-30 02:08:33 +0000",
       "minecraft:plains": "2024-06-30 01:48:51 +0000"
     },
@@ -50,9 +51,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2024-07-02 02:29:17 +0000",
       "log_spam_fixer": "2024-06-30 01:38:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
@@ -318,6 +320,18 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-07-02 01:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-07-02 02:24:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dreadbow": {
+    "criteria": {
+      "dreadbow": "2024-07-02 02:11:28 +0000"
     },
     "done": true
   },
