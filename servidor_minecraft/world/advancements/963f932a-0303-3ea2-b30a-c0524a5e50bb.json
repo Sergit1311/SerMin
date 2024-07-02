@@ -150,6 +150,7 @@
       "bread": "2024-06-30 03:55:00 +0000",
       "golden_apple": "2024-07-02 01:51:34 +0000",
       "rotten_flesh": "2024-06-30 02:39:22 +0000",
+      "cooked_rabbit": "2024-07-02 03:05:05 +0000",
       "cooked_chicken": "2024-06-30 02:53:49 +0000",
       "cooked_salmon": "2024-06-30 03:06:46 +0000",
       "carrot": "2024-06-30 02:58:57 +0000"
@@ -254,6 +255,7 @@
   },
   "simplefarming:berries": {
     "criteria": {
+      "strawberries": "2024-07-02 03:02:01 +0000",
       "raspberries": "2024-06-30 03:29:23 +0000"
     },
     "done": false
@@ -341,6 +343,19 @@
       "ancient_debris": "2024-07-02 02:24:53 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-07-02 03:19:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2024-07-02 03:18:52 +0000",
+      "wheat": "2024-07-02 03:19:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

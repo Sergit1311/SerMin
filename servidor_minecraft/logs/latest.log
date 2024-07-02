@@ -586,3 +586,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Jul2024 02:52:42.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> yo tengo una idea
 [02Jul2024 02:54:33.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> xdd
 [02Jul2024 02:55:16.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-943, y=72, z=1454} BlockPos{x=-944, y=70, z=1454}
+[02Jul2024 03:02:07.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> ño
+[02Jul2024 03:02:10.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> se va
+[02Jul2024 03:02:34.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> mira este
+[02Jul2024 03:02:42.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> me
+[02Jul2024 03:03:04.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> nuh uh
+[02Jul2024 03:04:38.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> dormir
+[02Jul2024 03:06:50.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> mochila celestee
+[02Jul2024 03:07:51.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was slain by Zombie
+[02Jul2024 03:07:51.704] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[02Jul2024 03:07:51.709] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[02Jul2024 03:08:21.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Zombie
+[02Jul2024 03:08:21.304] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[02Jul2024 03:08:21.309] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[02Jul2024 03:08:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> nop
+[02Jul2024 03:08:51.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d was slain by Zombie
+[02Jul2024 03:08:58.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> tu tmpc tienes, ya?
+[02Jul2024 03:09:05.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Zombie
+[02Jul2024 03:09:49.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[02Jul2024 03:09:49.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[02Jul2024 03:12:12.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:34359] logged in with entity id 29228 at (54.5, 63.0, 7.5)
+[02Jul2024 03:12:12.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[02Jul2024 03:12:12.926] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[02Jul2024 03:14:28.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shelg0d: Teleported lakchapatos to shelg0d]
+[02Jul2024 03:14:41.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> q hiciste
+[02Jul2024 03:16:50.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> yo no dejo huecos
+[02Jul2024 03:16:52.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> jum
+[02Jul2024 03:19:07.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [A Seedy Place]
