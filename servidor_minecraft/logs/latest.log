@@ -454,3 +454,33 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Jul2024 01:47:11.764] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
 [02Jul2024 01:47:17.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was doomed to fall by Skeleton
 [02Jul2024 01:48:25.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/3186, l='ServerLevel[world]', x=48.20, y=173.00, z=1998.22] died: Gearling fell from a high place
+[02Jul2024 01:49:34.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Skeleton
+[02Jul2024 01:49:34.158] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[02Jul2024 01:49:34.163] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[02Jul2024 01:49:41.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Skeleton
+[02Jul2024 01:50:31.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos fell from a high place
+[02Jul2024 01:50:31.669] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[02Jul2024 01:50:31.675] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[02Jul2024 01:50:37.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has reached the goal [Chain Death]
+[02Jul2024 01:50:37.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos fell from a high place
+[02Jul2024 01:51:26.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos was kicked for floating too long!
+[02Jul2024 01:51:26.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Flying is not enabled on this server
+[02Jul2024 01:51:26.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[02Jul2024 01:51:40.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Sneak 100]
+[02Jul2024 01:51:49.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:33247] logged in with entity id 4189 at (65.84332750978666, 123.14998983419143, 2011.579585075411)
+[02Jul2024 01:51:49.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[02Jul2024 01:51:49.394] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[02Jul2024 01:52:17.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos was kicked for floating too long!
+[02Jul2024 01:52:17.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Flying is not enabled on this server
+[02Jul2024 01:52:17.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[02Jul2024 01:52:41.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:56455] logged in with entity id 4306 at (65.84332750978666, 113.3198525289142, 2011.579585075411)
+[02Jul2024 01:52:41.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[02Jul2024 01:52:42.003] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[02Jul2024 01:53:53.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Diamonds!]
+[02Jul2024 01:56:40.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Skeleton
+[02Jul2024 01:56:40.454] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[02Jul2024 01:56:40.461] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[02Jul2024 01:57:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Skeleton
+[02Jul2024 01:58:34.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was slain by Skeleton
+[02Jul2024 01:58:34.109] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[02Jul2024 01:58:34.114] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
