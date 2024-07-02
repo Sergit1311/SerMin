@@ -413,3 +413,44 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Jul2024 01:38:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d was slain by Gearling
 [02Jul2024 01:38:19.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has reached the goal [Strong or Careful]
 [02Jul2024 01:38:19.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Skeleton
+[02Jul2024 01:38:57.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos was kicked for floating too long!
+[02Jul2024 01:38:57.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[02Jul2024 01:38:57.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[02Jul2024 01:38:57.706] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jul2024 01:38:58.957] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1807, l='ServerLevel[world]', x=46.38, y=141.54, z=1993.75] died: Gearling was slain by shelg0d
+[02Jul2024 01:39:26.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:43749] logged in with entity id 2172 at (54.88256358948144, 117.14396331523487, 2012.4657071815225)
+[02Jul2024 01:39:27.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[02Jul2024 01:39:27.139] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[02Jul2024 01:40:01.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1811, l='ServerLevel[world]', x=58.24, y=138.00, z=1988.66] died: Gearling was slain by shelg0d
+[02Jul2024 01:40:27.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1790, l='ServerLevel[world]', x=57.85, y=158.00, z=1998.09] died: Gearling suffocated in a wall
+[02Jul2024 01:40:36.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1786, l='ServerLevel[world]', x=46.68, y=148.92, z=1991.52] died: Gearling was slain by shelg0d
+[02Jul2024 01:42:04.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1810, l='ServerLevel[world]', x=40.54, y=161.00, z=1995.99] died: Gearling was slain by shelg0d
+[02Jul2024 01:42:10.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was slain by Gearling
+[02Jul2024 01:42:10.209] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[02Jul2024 01:42:10.216] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[02Jul2024 01:42:15.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Gearling
+[02Jul2024 01:42:15.758] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[02Jul2024 01:42:15.765] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[02Jul2024 01:42:26.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Gearling
+[02Jul2024 01:43:05.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d was slain by Gearling
+[02Jul2024 01:43:43.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was slain by Gearling
+[02Jul2024 01:43:43.857] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[02Jul2024 01:43:43.865] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[02Jul2024 01:43:43.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/2562, l='ServerLevel[world]', x=47.28, y=143.00, z=1990.72] died: Gearling was slain by shelg0d
+[02Jul2024 01:43:51.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has reached the goal [Chain Death]
+[02Jul2024 01:43:51.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d was slain by Gearling
+[02Jul2024 01:44:38.910] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/2565, l='ServerLevel[world]', x=49.20, y=137.50, z=2008.31] died: Gearling was slain by shelg0d
+[02Jul2024 01:45:31.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Skeleton
+[02Jul2024 01:45:31.605] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[02Jul2024 01:45:31.613] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[02Jul2024 01:45:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Skeleton
+[02Jul2024 01:45:53.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/2573, l='ServerLevel[world]', x=59.97, y=161.00, z=1981.18] died: Gearling was slain by shelg0d
+[02Jul2024 01:45:58.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/3187, l='ServerLevel[world]', x=60.50, y=161.00, z=1983.15] died: Gearling was slain by shelg0d
+[02Jul2024 01:46:09.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1806, l='ServerLevel[world]', x=59.73, y=161.00, z=1981.25] died: Gearling was slain by shelg0d
+[02Jul2024 01:46:10.505] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/3176, l='ServerLevel[world]', x=60.50, y=161.00, z=1983.15] died: Gearling was slain by shelg0d
+[02Jul2024 01:46:24.107] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/3178, l='ServerLevel[world]', x=60.49, y=161.00, z=1983.15] died: Gearling was slain by shelg0d
+[02Jul2024 01:47:11.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was doomed to fall by Skeleton
+[02Jul2024 01:47:11.749] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[02Jul2024 01:47:11.764] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[02Jul2024 01:47:17.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was doomed to fall by Skeleton
+[02Jul2024 01:48:25.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/3186, l='ServerLevel[world]', x=48.20, y=173.00, z=1998.22] died: Gearling fell from a high place
