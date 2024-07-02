@@ -4687,3 +4687,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Jul2024 01:05:48.427] [Server thread/DEBUG] [tombstone/]: A new grave of the player shelg0d was created at position [x:46, y:154, z:1990, dim:minecraft:overworld]
 [02Jul2024 01:08:51.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jul2024 01:08:51.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2024 01:13:51.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2024 01:13:51.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2024 01:13:59.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/3590, l='ServerLevel[world]', x=39.56, y=161.00, z=1997.01] died: Gearling was slain by shelg0d
+[02Jul2024 01:14:01.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was slain by Gearling
+[02Jul2024 01:14:01.167] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[02Jul2024 01:14:01.175] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[02Jul2024 01:14:07.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d was slain by Gearling
+[02Jul2024 01:14:07.370] [Server thread/DEBUG] [tombstone/]: A new grave of the player shelg0d was created at position [x:43, y:161, z:1992, dim:minecraft:overworld]
+[02Jul2024 01:14:12.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d lost connection: Disconnected
+[02Jul2024 01:14:12.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d left the game
+[02Jul2024 01:14:23.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Jul2024 01:14:23.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jul2024 01:14:23.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jul2024 01:14:23.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jul2024 01:14:23.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jul2024 01:14:29.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jul2024 01:14:29.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jul2024 01:14:29.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2024 01:14:29.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2024 01:14:29.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jul2024 01:14:29.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jul2024 01:14:29.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jul2024 01:14:29.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Jul2024 01:14:29.879] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[02Jul2024 01:14:29.881] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
